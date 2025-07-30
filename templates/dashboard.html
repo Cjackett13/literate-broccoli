@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wellness Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 900px; margin: auto; }
+    table, th, td { border: 1px solid #ccc; border-collapse: collapse; padding: 8px; }
+    h1, h2 { margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Wellness Insights Dashboard</h1>
+
+  <h2>Total Journal Entries: {{ total_entries }}</h2>
+
+  <h2>Wellness Tip of the Day:</h2>
+  <p style="background: #e0f7fa; padding: 10px; border-left: 5px solid #00acc1;">
+  {{ wellness_tip }}
+  </p>
+
+  <h2>Mood Distribution:</h2>
+  <ul>
+    {% for mood, count in mood_counts.items() %}
+      <li>{{ mood }}: {{ count }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Mood Trend Over Time:</h2>
+  <table>
+    <tr>
+      <th>Date</th>
+      {% for mood in mood_counts.keys() %}
+        <th>{{ mood }}</th>
+      {% endfor %}
+    </tr>
+    {% for date, counts in mood_trend.items() %}
+    <tr>
+      <td>{{ date }}</td>
+      {% for mood in mood_counts.keys() %}
+        <td>{{ counts.get(mood, 0) }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
