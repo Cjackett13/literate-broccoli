@@ -84,14 +84,14 @@ Want to contribute or suggest a feature? Feel free to open an issue or pull requ
 
 Here are some example outputs from our AI-powered journaling assistant, showcasing different features such as sentiment analysis, reflections, affirmations, and more.
 
-![Screenshot 1](screenshots/Screenshot%202025-08-05%20at%2010.50.19%E2%80%AFPM.png)
-![Screenshot 2](screenshots/Screenshot%202025-08-05%20at%2010.50.51%E2%80%AFPM.png)
-![Screenshot 3](screenshots/Screenshot%202025-08-05%20at%2010.51.19%E2%80%AFPM.png)
-![Screenshot 4](screenshots/Screenshot%202025-08-05%20at%2010.51.34%E2%80%AFPM.png)
-![Screenshot 5](screenshots/Screenshot%202025-08-05%20at%2010.52.31%E2%80%AFPM.png)
-![Screenshot 6](screenshots/Screenshot%202025-08-05%20at%2010.54.01%E2%80%AFPM.png)
-![Screenshot 7](screenshots/Screenshot%202025-08-05%20at%2010.54.30%E2%80%AFPM.png)
-![Screenshot 8](screenshots/Screenshot%202025-08-05%20at%2010.54.54%E2%80%AFPM.png)
+![Screenshot 1](screenshots/Screenshot%202025-08-05%20at%2010.50.19%E2%80%AFPM.png)<br><br>
+![Screenshot 2](screenshots/Screenshot%202025-08-05%20at%2010.50.51%E2%80%AFPM.png)<br><br>
+![Screenshot 3](screenshots/Screenshot%202025-08-05%20at%2010.51.19%E2%80%AFPM.png)<br><br>
+![Screenshot 4](screenshots/Screenshot%202025-08-05%20at%2010.51.34%E2%80%AFPM.png)<br><br>
+![Screenshot 5](screenshots/Screenshot%202025-08-05%20at%2010.52.31%E2%80%AFPM.png)<br><br>
+![Screenshot 6](screenshots/Screenshot%202025-08-05%20at%2010.54.01%E2%80%AFPM.png)<br><br>
+![Screenshot 7](screenshots/Screenshot%202025-08-05%20at%2010.54.30%E2%80%AFPM.png)<br><br>
+![Screenshot 8](screenshots/Screenshot%202025-08-05%20at%2010.54.54%E2%80%AFPM.png)<br><br>
 ![Screenshot 9](screenshots/Screenshot%202025-08-05%20at%2010.55.08%E2%80%AFPM.png)
 
 
