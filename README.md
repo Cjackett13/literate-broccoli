@@ -82,8 +82,6 @@ Want to contribute or suggest a feature? Feel free to open an issue or pull requ
 
 ## 📸 Screenshots
 
-## 🖼️ Sample Results
-
 Here are some example outputs from our AI-powered journaling assistant, showcasing different features such as sentiment analysis, reflections, affirmations, and more.
 
 ![Screenshot 1](screenshots/Screenshot%202025-08-05%20at%2010.50.19%E2%80%AFPM.png)
