@@ -19,3 +19,19 @@ This notebook provides a journaling experience enhanced by AI. It uses GPT-3.5 t
 ### 📌 Requirements
 - Python 3.x
 - `openai` Python package
+
+---
+## 🧠 AI Journaling Assistant Features
+
+This project includes an AI-powered journaling assistant that:
+
+- Provides gentle, supportive GPT-based responses to journal entries
+- Accepts user input through a text box (with optional widget-based input)
+- Can be extended to support advanced features such as:
+
+  - 🧠 Sentiment Analysis (e.g., TextBlob or Hugging Face)
+  - 🧘 Mindfulness Coach Mode
+  - 🎯 Daily Prompt Generator
+  - 🧾 Topic Tracker (extracts recurring themes/topics)
+
+The current assistant is designed with a supportive tone to encourage mental wellness through journaling.
