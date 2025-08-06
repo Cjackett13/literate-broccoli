@@ -72,9 +72,9 @@ Want to contribute or suggest a feature? Feel free to open an issue or pull requ
 
 ## 👥 Contributors
 
-- Preethika Yetukuri (https://github.com/preethikayetukuri) – AI Engineer & Developer  
-- Christie Jackett (https://github.com/Cjackett13) - Backend/API  
+- Preethika Yetukuri (https://github.com/preethikayetukuri) – AI Engineer & Developer
 - Joyce Zhu (https://github.com/maximorobbio) - Frontend/UI
+- Christie Jackett (https://github.com/Cjackett13) - Backend/API  
 - Raana Forgah (https://github.com/RaanaF) - Infrastructure & Quality Assurance
 - Special thanks to our mentors and reviewers at AI4ALL Ignite Accelerator!
 
@@ -82,7 +82,20 @@ Want to contribute or suggest a feature? Feel free to open an issue or pull requ
 
 ## 📸 Screenshots
 
-> *(You can add Colab output or interface screenshots here for visual clarity — drag & drop into the repo or embed GitHub image links.)*
+## 🖼️ Sample Results
+
+Here are some example outputs from our AI-powered journaling assistant, showcasing different features such as sentiment analysis, reflections, affirmations, and more.
+
+![Screenshot 1](screenshots/Screenshot%202025-08-05%20at%2010.50.19%E2%80%AFPM.png)
+![Screenshot 2](screenshots/Screenshot%202025-08-05%20at%2010.50.51%E2%80%AFPM.png)
+![Screenshot 3](screenshots/Screenshot%202025-08-05%20at%2010.51.19%E2%80%AFPM.png)
+![Screenshot 4](screenshots/Screenshot%202025-08-05%20at%2010.51.34%E2%80%AFPM.png)
+![Screenshot 5](screenshots/Screenshot%202025-08-05%20at%2010.52.31%E2%80%AFPM.png)
+![Screenshot 6](screenshots/Screenshot%202025-08-05%20at%2010.54.01%E2%80%AFPM.png)
+![Screenshot 7](screenshots/Screenshot%202025-08-05%20at%2010.54.30%E2%80%AFPM.png)
+![Screenshot 8](screenshots/Screenshot%202025-08-05%20at%2010.54.54%E2%80%AFPM.png)
+![Screenshot 9](screenshots/Screenshot%202025-08-05%20at%2010.55.08%E2%80%AFPM.png)
+
 
 ---
 
