@@ -73,8 +73,8 @@ Want to contribute or suggest a feature? Feel free to open an issue or pull requ
 ## 👥 Contributors
 
 - Preethika Yetukuri (https://github.com/preethikayetukuri) – AI Engineer & Developer
-- Joyce Zhu (https://github.com/maximorobbio) - Frontend/UI
-- Christie Jackett (https://github.com/Cjackett13) - Backend/API  
+- Joyce Zhu (https://github.com/maximorobbio) - Backend/API
+- Christie Jackett (https://github.com/Cjackett13) - Frontend/UI
 - Raana Forgah (https://github.com/RaanaF) - Infrastructure & Quality Assurance
 - Special thanks to our mentors and reviewers at AI4ALL Ignite Accelerator!
 
@@ -134,5 +134,4 @@ Special thanks to [OpenAI](https://openai.com/) for the GPT API and to the creat
 Inspiration from journaling practices, mental health research, and human-centered AI design.
 
 ---
-
 
