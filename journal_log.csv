@@ -1,0 +1,1004 @@
+timestamp,mood,entry,ai_response,sentiment
+2025-08-05 10:00:00,negative,I feel anxious about deadlines and can’t seem to focus.,It's completely normal to feel this way during busy times. Try mindfulness or short breaks to recenter. You’re not alone.,
+2025-08-04 14:30:00,neutral,I'm not feeling much of anything today.,Neutral days are valid. Reflect gently or do something small for yourself today.,
+2025-08-03 20:15:00,positive,Had a great day with friends!,That sounds amazing! Social connection is so good for well-being. Savor it.,
+2025-08-02 19:45:00,negative,I feel really behind on everything.,It’s okay to feel overwhelmed. Break things into smaller steps and remember you’ve done hard things before.,
+2025-08-01 08:00:00,positive,I started journaling again!,That’s a great step toward self-reflection. Keep going — your voice matters.,
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Congratulations on completing your tasks.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way sometimes, and remember that you're not alone in experiencing challenges.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times. Remember to take things one step at a time and be kind to yourself.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take some deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need someone to talk to.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult right now. It's okay to feel this way, and you're not alone.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. Tomorrow is a new opportunity for something special to happen.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They help us appreciate the special ones even more.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon. That sounds lovely.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! Completing tasks can be a great accomplishment.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's important to take care of yourself during moments like this.,Negative
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to be kind to yourself and take things one step at a time.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be a nice break from the chaos of life.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and it's important to take care of yourself during challenging times.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support if needed.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take small breaks and breathe. You've got this.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during these tough times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding onto that positivity.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and calming afternoon. I'm glad you were able to relax and enjoy some quiet time.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult for you right now. It's okay to feel this way, and I'm here to support you.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks, prioritize self-care, and reach out for support if needed.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days like this.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you'd like to share more.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks, practice self-care, and reach out for support if needed.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how overwhelming exams and deadlines can feel. It's completely normal to feel anxious in these situations. Remember to take breaks, breathe, and prioritize self-care during this time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful about the future. Hang in there!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days. They are important too.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how overwhelming exams and deadlines can feel. Remember to take breaks and practice self-care during this stressful time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days. They can be a nice break from the chaos of life.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Keep holding onto that positivity.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way at times. Remember to take a few deep breaths and try to break things down into smaller tasks to make them more manageable.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should be proud of your hard work and accomplishments.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Take some time for yourself and try to reflect on your emotions.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not quite sure how you feel. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. Tomorrow is a new opportunity for something special.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's normal to feel this way at times, but remember that it's okay to take a break and ask for help if you need it.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to not be sure of your emotions sometimes.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take a break and take care of yourself. You've got this!,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. It's important to take care of yourself during this time.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel overwhelmed sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They are necessary for balance.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Take some time for yourself and try to do something that brings you comfort.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions. Take some time for yourself and try to reflect on what might be causing these feelings.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be a nice break from the chaos of life.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a good feeling to accomplish your tasks.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be a nice break from the chaos of life.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way and remember that you're not alone in your struggles.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,"It's okay to have days like this, where you're not quite sure how you feel. Remember to take some time for yourself and reflect on your emotions.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to be gentle with yourself and take things one step at a time.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's totally normal to feel that way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! Celebrate your accomplishments and keep up the good work.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's always great to feel accomplished after completing your tasks.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way sometimes.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful afternoon. That sounds lovely.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Take care of yourself.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your hard work.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling so overwhelmed. It's important to take care of yourself during challenging times. Remember to reach out for support if you need it.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard for you lately. It's okay to feel this way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. Remember to take a moment to breathe and prioritize what needs to be done first. You've got this!,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of yourself for completing your tasks.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to prioritize your well-being and seek support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I hope it brought you some peace and relaxation.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes, and remember that it's important to take care of yourself.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Celebrate your accomplishments and continue to be proud of yourself.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They help us appreciate the special ones even more.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They help us appreciate the more special moments.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're feeling this way. It's okay to have difficult moments, but remember that you are capable of overcoming them.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your achievements.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks, breathe, and do your best. You're capable of handling it all.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's a great accomplishment! Keep up the good work.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to struggle with focus at times.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed at times. Remember to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to be kind to yourself and take things one step at a time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a wonderful feeling to accomplish your tasks. Keep up the good work!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. Remember to take care of yourself and reach out for support when needed.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard for you right now. It's okay to feel that way sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be just as important as the special ones.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and calming afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during difficult times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,It's wonderful to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you need to talk more about it.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Negative
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel overwhelmed sometimes.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks, breathe, and prioritize self-care during this challenging time.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times. Remember to take some deep breaths and take things one step at a time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are just as important as the exciting ones.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels so hard lately. It's okay to feel that way, and I'm here to listen.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a deep breath and try to break things down into smaller tasks. You've got this!,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positivity.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how stressful exams and deadlines can be. Remember to take breaks, breathe, and prioritize self-care during this time.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important for rest and recharge.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon. I'm glad you were able to take some time for yourself.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but please remember to take care of yourself and reach out for support if you need it.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,I understand that not every day is filled with excitement. It's okay to have regular days too.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always rewarding to accomplish your tasks and feel proud of yourself.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and know when to ask for help.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should definitely feel proud of your accomplishments.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes it's the quiet moments that bring the most peace.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling that way. It's okay to have days where you're just going through the motions.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I feel proud of myself for completing my tasks.,I'm glad to hear that you're feeling proud of yourself for accomplishing your tasks. It's important to celebrate your achievements!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish your tasks and feel proud of yourself.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but I believe in your ability to handle the challenges ahead.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,I understand that not every day is filled with excitement and that's okay.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Stay positive!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling exhausted. It's important to take care of yourself during challenging times.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to not be okay sometimes. Remember to take care of yourself and reach out for support when needed.,Negative
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Take some time to relax and recharge.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember that you are capable and you've got this!",Neutral
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for the future. Keep holding onto that optimism.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Congratulations on completing your tasks.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Take some time for yourself and remember to be gentle with yourself.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days where you feel like you're just going through the motions. Remember to be kind to yourself during these times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take breaks, practice self-care, and reach out for support if needed.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel that way, but remember to take things one step at a time and be kind to yourself during this stressful period.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember that you are capable and prepared to tackle these challenges. Take some deep breaths and break down your tasks into manageable steps.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. Remember to take breaks and practice self-care during this busy time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are important too. Take care of yourself.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way at times. Remember to take a break and prioritize self-care.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's important to remember that it's okay to feel this way and that you're not alone in experiencing these challenges.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should definitely feel proud of your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how overwhelming exams and deadlines can feel. It's okay to feel anxious, but remember to take breaks and practice self-care during this busy time.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always rewarding to accomplish your tasks and feel proud of yourself.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,It's completely normal to feel anxious about exams and deadlines. Remember to take deep breaths and break down your tasks into manageable chunks. You've got this!,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and calming afternoon. I'm glad you were able to relax and enjoy some downtime.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that where you're not quite sure how you feel. Remember to take some time for yourself and reflect on your emotions.,Neutral
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for the future. Stay positive!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! Keep up the great work.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! You should definitely be proud of yourself for accomplishing your tasks.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during times of exhaustion.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to recognize and celebrate your achievements.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything has been feeling difficult for you lately. It's okay to feel this way and it's important to take care of yourself during tough times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take deep breaths and take things one step at a time. You've got this!,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way at times. Remember to take deep breaths and try to break down tasks into smaller, manageable steps. You've got this!",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and soothing afternoon. I'm glad you were able to take some time for yourself.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and soothing afternoon.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's okay to not be able to focus sometimes, take a deep breath and try to take things one step at a time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during tough times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take things one step at a time and reach out for support if needed.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,I'm glad to hear that you're feeling proud of yourself for completing your tasks. Keep up the great work!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon. I'm glad you were able to find time to relax and enjoy yourself.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. Remember to take breaks and prioritize your well-being during this time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed at times. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge your hard work and accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,It's great to hear that you're feeling proud of yourself for completing your tasks!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take some deep breaths and try to break down your tasks into smaller, manageable steps.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way from time to time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's understandable to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and seek support when needed.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything has been feeling challenging for you lately. It's okay to feel this way, and it's important to remember that it won't last forever.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed right now. It's okay to feel this way sometimes, and it's important to take care of yourself.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during tough times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's normal to feel this way, but remember to take care of yourself and try your best. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be just as important as special ones.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! I'm glad you're feeling proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments. Keep up the great work!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,I'm sorry to hear that you're feeling anxious. It's completely normal to feel that way when facing exams and deadlines.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge your efforts and accomplishments.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful period.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's great to feel proud of your accomplishments.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be quite comforting in their own way.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your achievements.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a chance to recharge and relax.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way and it's important to take care of yourself during challenging times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! Celebrate your accomplishment.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult for you right now. It's okay to feel that way, and you're not alone in experiencing challenges.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful about the future. Hang in there!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to have ups and downs, and I'm here to support you through it.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish your tasks.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes the peace and routine can be comforting.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. Remember to take breaks and practice self-care during this busy time.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold on to that positivity.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days where you're not sure how you feel. Remember to take care of yourself and give yourself some grace.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, sometimes they can be quite comforting in their predictability.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they make up the majority of our lives.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take breaks and practice self-care during this time.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some quiet time for yourself.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself during this stressful time.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take deep breaths and take things one step at a time.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish what you set out to do.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to go through challenging periods. Remember to be kind to yourself during this time.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember that you're capable and can get through this challenging time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this. Remember to take care of yourself and reach out if you need support.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take breaks, prioritize self-care, and reach out for support if needed.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times. Remember to take a deep breath and take things one step at a time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! Celebrate your accomplishments.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels difficult right now. It's okay to feel this way and remember that you're not alone in facing challenges.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful time for yourself.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from all the excitement.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and soothing afternoon.,Positive
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for the future. Hang in there!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's understandable to feel that way with so much pressure on you right now. Remember to take breaks and take care of yourself during this stressful time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes peace and routine can be a comfort in their own way.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Just take it one step at a time.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a deep breath and take things one step at a time. You can get through this.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,I'm glad to hear that you're feeling proud of yourself for completing your tasks. That's a great accomplishment!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when you need it.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days where you feel unsure and just going through the motions. Remember to take care of yourself and give yourself grace during these times.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself during this stressful time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Tomorrow might bring something new.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling challenging for you lately. It's okay to feel this way, and I'm here to listen.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry that things have been feeling difficult for you lately. It's okay to feel this way, and you're not alone in experiencing challenges.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support if you need it.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this where you're not quite sure how you feel. Remember to take care of yourself and give yourself some grace.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. Remember to take breaks and practice self-care during this time.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and you're not alone in experiencing these challenges.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how overwhelming exams and deadlines can be. Remember to take breaks, prioritize your tasks, and reach out for support if needed.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They help us appreciate the extraordinary moments even more.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful about the future. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel stressed, but remember to take breaks and prioritize self-care during this time.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take one step at a time and prioritize self-care during this stressful period.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes those are necessary for rest and recharge.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling this way. It's completely valid to struggle at times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes routine can be comforting.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure and just going through the motions. It's okay to have days like this.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a peaceful and enjoyable way to spend your afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Keep up the great work.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not quite sure how you feel. Take some time to reflect and care for yourself.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this busy time.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels hard for you right now. It's okay to feel this way, and I'm here to listen.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be just as important for rest and relaxation.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels so hard lately. It's okay to feel this way, and it's important to take care of yourself during difficult times.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a wonderful feeling to accomplish your tasks.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,"It sounds like you had a lovely and peaceful afternoon, reading and enjoying your tea. That's great to hear!",Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and give yourself some grace.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand that feeling anxious about exams and deadlines can be overwhelming. It's important to take things one step at a time and remember to practice self-care during this stressful time.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Take some time for yourself and try to reflect on what might be causing this uncertainty.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling this way. It's okay to struggle sometimes.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful moments.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and remember that it's okay to ask for help when you need it.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels hard for you lately. It's completely normal to have ups and downs, and I'm here to listen if you need to talk more about it.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's normal to feel this way at times. Remember to take things one step at a time and be kind to yourself.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support if needed.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,That sounds like a wonderful day filled with joy and laughter!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take breaks and prioritize self-care during these moments.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,It's completely normal to feel anxious about exams and deadlines. Remember to take deep breaths and break down your tasks into manageable chunks. You've got this!,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! Celebrate your accomplishments and be proud of your hard work.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to have challenging times, and I'm here to listen if you want to talk more about what's been going on.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be just as important as the eventful ones.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything has been feeling difficult for you lately. It's okay to feel that way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important for rest and relaxation.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel that way sometimes. Remember to take deep breaths and take things one step at a time.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions. Take some time for yourself and try to do something that brings you comfort or joy.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult right now. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,I understand that not every day is filled with excitement or big events. Sometimes the ordinary days are just as important for rest and recharge.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positive outlook.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes they can be comforting in their predictability.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days. Sometimes those moments of normalcy can be quite comforting.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes those moments of normalcy can be comforting.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's important to acknowledge your accomplishments and feel proud of your hard work.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's great to feel proud of your accomplishments.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to go through periods where everything feels hard. Remember to be kind to yourself during these times.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel tired and overwhelmed at times. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time. Remember to take care of yourself and reach out for support if you need it.,Negative
+,Positive,I'm hopeful things will improve soon.,It's great to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard lately. It's okay to feel that way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. That positivity can make a big difference.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's great to hold onto that positivity.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks, breathe, and believe in yourself. You've got this!",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. Remember to take breaks and practice self-care during this time. You've got this!,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and focus on one task at a time. You've got this!",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed at times. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable time relaxing with a good book and some tea.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's important to acknowledge those feelings and take care of yourself during tough times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear that you're feeling hopeful. I'm here to support you through whatever comes your way.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important for rest and relaxation.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way and know that you're not alone in experiencing struggles.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's important to take some time for yourself and try to prioritize your tasks. Remember, it's okay to ask for help if you need it.",Negative
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during difficult times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I understand how stressful exams and deadlines can be. It's important to take care of yourself during this time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. Tomorrow is a new opportunity for something different.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this. Remember to take care of yourself and give yourself some grace.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are just as important as the special ones.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a break and take care of yourself.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard lately. It's completely normal to feel this way at times.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult for you right now. It's okay to feel this way, and I'm here to listen.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard lately. It's okay to feel overwhelmed at times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself during this stressful time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep that positive attitude!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important for rest and recharge.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely understandable to feel that way, but remember that you are capable and can handle whatever comes your way.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days too, they can be comforting in their own way.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's great to feel accomplished and proud of your hard work.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They help us appreciate the more exciting moments in life.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they help us appreciate the special ones even more.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Remember to hold on to that positive outlook.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish your tasks.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Completing tasks can be such a rewarding accomplishment.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they help us appreciate the special ones even more.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Keep holding onto that optimism.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels challenging for you right now. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Celebrate your accomplishments and continue to push yourself.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to take a step back and give yourself some time to breathe.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels hard lately. It's okay to feel that way, and it's important to take care of yourself during challenging times.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days like this where you're just going through the motions. Remember to be kind to yourself and take some time for self-care.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and tackle one thing at a time. You've got this!",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge your accomplishments and feel proud of yourself.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are important too. Take care!",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful moments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should be proud of your accomplishment.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have days that feel ordinary. They can be a time to rest and recharge.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel this way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during tough times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Stay positive!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and find small moments of joy in your day.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be comforting in their own way.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's great to feel accomplished and proud of your hard work.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not quite sure how you feel.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity is just what we need.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks, breathe, and prioritize self-care during this stressful time.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been difficult for you lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Stay positive!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been difficult for you lately. It's okay to feel overwhelmed at times.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling so overwhelmed. It's important to take care of yourself and reach out for support when you need it.,Negative
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down tasks into manageable chunks. You've got this!",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Keep up the great work.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable time. I'm glad you were able to relax and unwind.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and reach out for support if needed. You've got this!",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult for you right now. It's okay to feel this way, and I'm here to listen.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes they can be quite comforting in their routine.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important as the special ones.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful time for yourself.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time right now.,Negative
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes, but remember to take breaks and prioritize self-care.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes they can be just what you need.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep looking towards the future with optimism.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to have moments like this. Remember to take small breaks and prioritize self-care during this time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Congratulations on completing your tasks.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a wonderful feeling to accomplish the tasks you set out to do.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling exhausted. It's okay to feel this way sometimes. Take care of yourself and remember to prioritize your well-being.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks, practice self-care, and reach out for support if needed.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold onto that positivity.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Keep holding on to that optimism.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as meaningful in their own way.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to have periods where everything feels like a struggle. Remember to be kind to yourself during these times.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling that way. It's okay to have days where everything feels difficult.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling so exhausted. It's okay to feel overwhelmed at times. Remember to take care of yourself and reach out for support when needed.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this where you're not quite sure how you feel. Just take things one step at a time.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself and reach out for help if needed.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Celebrate your accomplishments and continue to take pride in your hard work.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Take care of yourself.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days where you're not quite sure how you feel. Remember to take some time for yourself and do things that bring you comfort or joy.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. Remember to take deep breaths and break tasks into smaller, manageable steps.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon. Reading and sipping tea can be such a calming experience.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how overwhelming exams and deadlines can be. It's okay to feel anxious, but remember to take breaks and prioritize self-care during this time.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon. I hope it brought you some peace and relaxation.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's normal to feel that way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during difficult times.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel that way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything has been feeling difficult lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard for you lately. It's okay to feel that way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard lately. It's important to remember that it's okay to feel this way sometimes.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful moments.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to go through challenging times. Remember to be kind to yourself during these moments.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to have periods where everything seems challenging. Remember to be kind to yourself during these times.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how stressful exams and deadlines can be. It's normal to feel anxious in these situations, but remember to take breaks and practice self-care during this time.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! You should definitely be proud of your hard work.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes it's the little moments that matter the most.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed at times. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold onto that optimism.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and it's important to take care of yourself during these times.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds lovely. Reading and sipping tea can be such a peaceful way to spend an afternoon.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity is comforting.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes those moments of normalcy can be comforting in their own way.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are part of life too.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself during this stressful time.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Take some time for yourself and see if you can identify what's causing this uncertainty.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take breaks and prioritize self-care during times like these.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful about the future.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to struggle and feel overwhelmed at times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during trying times.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity can be comforting.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way, especially as a student.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not quite sure how you feel. Take some time for self-care and reflection.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and try to take things one step at a time.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling this way. It's okay to have moments where everything feels difficult.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're going through a tough time. It's okay to feel this way, and I'm here to listen if you need to talk more about it.",Negative
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're unsure of your emotions. Take some time for self-care and reflection.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important as the exciting ones.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels so hard lately. It's completely normal to have moments like this. Remember to be kind to yourself during these challenging times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding onto that optimism.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful about the future. Remember to hold onto that optimism during challenging times.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and calming afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel exhausted sometimes, but remember to take care of yourself and reach out for support when needed.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a moment to breathe and prioritize self-care. You've got this.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times. Remember to reach out for support if needed.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days too. Remember, every day is a chance to create new memories.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels difficult for you right now. It's okay to feel that way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of yourself for completing your tasks.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a wonderful feeling to accomplish your tasks.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be just as important as the special ones.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take breaks, stay organized, and reach out for support if you need it.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're really struggling right now.,Negative
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I hope it brought you some peace and relaxation.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take some time for yourself and prioritize self-care.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take deep breaths and take things one step at a time.,Negative
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been difficult for you lately. It's okay to feel overwhelmed sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear that you're feeling hopeful. Keep holding onto that positivity.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of your accomplishments.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take deep breaths and take things one step at a time.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hold onto that positivity!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to not be okay sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed at times.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Negative
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's completely normal to feel overwhelmed at times. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure and just going through the motions. It's okay to have days like this. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold onto that optimism during challenging times.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel that way sometimes. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for better days ahead.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling challenging for you lately. It's okay to feel this way, and I'm here to support you as you navigate through these tough times.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. It's important to take time for yourself and relax.,Positive
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for the future. Stay positive!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Take some time to reflect on your feelings and remember that it's normal to feel this way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel that way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon. I'm glad you were able to relax and enjoy some peaceful moments.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,It's completely normal to feel anxious about exams and deadlines. Remember to take deep breaths and tackle tasks one at a time. You've got this!,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and you're not alone in experiencing challenges.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future. Hang in there.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this. Remember to take some time for yourself and do something that brings you joy.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take things one step at a time and reach out for support if you need it.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to be kind to yourself and take things one step at a time.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,"That sounds lovely, reading and sipping tea can be very calming.",Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and remember that it's okay to ask for help when you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about the upcoming exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,"It's okay to have days like that, where you're just going through the motions. Remember to take care of yourself and reach out if you need support.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes, but remember to take care of yourself and reach out for support if you need it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,I'm hopeful things will improve soon.,It's great to hear that you're feeling hopeful for the future. Keep holding on to that positivity.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that. It's okay to feel overwhelmed sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels difficult right now. It's okay to feel this way, and I'm here to support you.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and prioritize self-care during this stressful time.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,"I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take deep breaths and take things one step at a time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and remember that it's okay to ask for help when you need it.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your hard work.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's normal to feel that way, but remember to take deep breaths and break down tasks into manageable chunks. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely and peaceful way to spend your afternoon.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should be proud of your accomplishments.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're feeling that way. It's completely normal to go through periods where things feel challenging. Remember, it's okay to ask for help or take a break if you need it.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should definitely feel proud of your accomplishments.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positivity.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's always a great feeling to accomplish your tasks and feel proud of yourself.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take breaks and take care of yourself.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to have moments like this, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and focus on one task at a time. You've got this!",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend the afternoon!,Positive
+,Positive,Today was a great day! I had fun with my friends.,That sounds like a wonderful day spent with your friends!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take deep breaths and take things one step at a time.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're feeling this way. It's okay to struggle sometimes, and I'm here to listen if you need to talk about it.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling this way. It's completely normal to have periods where everything feels difficult. Remember to be kind to yourself and take things one step at a time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should be proud of your accomplishments.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Take some time for yourself and do something that brings you joy.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are just as important as the extraordinary ones.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to struggle sometimes, and you're not alone in feeling this way.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon. I'm glad you were able to relax and enjoy some time to yourself.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling tough for you lately. It's okay to feel overwhelmed sometimes.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. You never know what tomorrow might bring.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep looking forward to better days ahead.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel that way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity can be quite comforting.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way sometimes, and know that you're not alone in experiencing these challenges.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a lovely and peaceful afternoon.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and prioritize your well-being. Remember that it's okay to ask for help when you need it.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Remember to give yourself some grace and take care of yourself.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to listen if you want to share more.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're feeling this way. It's okay to struggle sometimes, and you're not alone in feeling this way.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They are important too for maintaining balance.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks, breathe, and reach out for support if needed.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. Remember to take deep breaths and break things down into manageable tasks. You've got this!,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and remember that it's okay to seek help when you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, and remember that you're not alone in this. Take some deep breaths and try to break down your tasks into smaller, manageable steps. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be comforting in their own way.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how you're feeling. It's normal to feel anxious about exams and deadlines, but remember to take deep breaths and break things down into manageable tasks. You've got this!",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way and it's important to take care of yourself during these challenging times.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. It's all part of life's rhythm.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They help us appreciate the special ones even more.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Negative
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when you need it.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, and remember that you're not alone in experiencing these emotions.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's amazing to hear! You should definitely feel proud of your accomplishments.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Take some time for self-care and do something that brings you joy.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,"It sounds like you had a peaceful and calming afternoon, reading and enjoying a cup of tea.",Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be a time for rest and reflection.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when you need it.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positivity.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They help us appreciate the special ones even more.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to go through periods where everything feels hard. Remember to be kind to yourself during these times.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. That's a positive attitude to have during challenging times.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this where you're not quite sure how you feel. Remember to take care of yourself and give yourself some grace.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself and prioritize self-care during this stressful time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes routine can be comforting.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're really struggling right now.,Negative
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity can be comforting.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's always a wonderful feeling to accomplish your tasks.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely feel proud of yourself for accomplishing your tasks.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way at times. Remember to take deep breaths and try to break tasks into smaller, more manageable parts.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are important too.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this where you're not sure how you feel. Remember to take care of yourself and give yourself some time to process your emotions.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and take things one step at a time. You've got this.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! You should definitely be proud of your accomplishments.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Tomorrow is a new opportunity for something special to happen.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold onto that positivity during challenging times.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days. Sometimes the calm moments can be just as important as the exciting ones.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are just as important as the exciting ones.",Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish your tasks. Keep up the good work!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel that way sometimes.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they can be comforting in their own way.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down your tasks into manageable chunks. You've got this!",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to go through the motions sometimes. Take some time for yourself and things may start to feel clearer.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Congratulations on completing your tasks.,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's important to remember that it's okay to have challenging times and that you're not alone in feeling this way.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positivity.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold onto that optimism.,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling tough lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out for support if needed.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're just going through the motions. Take some time for yourself and try to do something that brings you comfort or joy.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should be proud of your accomplishments.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and rejuvenating afternoon.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels hard lately. It's okay to feel this way, and it's important to remember that things will get better in time.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take care of yourself and reach out for support if needed.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. Tomorrow is a new opportunity for something special to happen.,Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling unsure today. It's okay to have days where you're just going through the motions. Remember to take some time for yourself and do something that brings you comfort or joy.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way and remember that you're not alone.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Neutral,I’m not sure how I feel today. Just going through the motions.,I'm sorry to hear that you're feeling this way. It's okay to have days where you're not sure how you feel.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful! Hang in there.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have days like that. Remember that even in the ordinary moments, there can be hidden beauty and significance.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that you're feeling that way. It's completely normal to have times when everything feels difficult.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding onto that optimism.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days. They can be just as important as the exciting ones.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's normal to have ups and downs, and it's okay to feel overwhelmed at times. Remember to be kind to yourself during these challenging moments.",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that everything feels hard lately. It's okay to feel this way sometimes.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's important to acknowledge and celebrate your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for accomplishing your tasks.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's important to remember to take care of yourself during stressful times like these.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel that way sometimes.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there.,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a lot right now.,Negative
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break things down into manageable chunks.",Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes, but remember that you're not alone in this.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel overwhelmed sometimes. Take some time to rest and take care of yourself.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel this way, but remember to take deep breaths and break down tasks into manageable chunks. You've got this!",Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times. Remember to take deep breaths and try to break tasks into smaller, manageable steps. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days sometimes. Remember that every day, no matter how ordinary, holds its own value.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to prioritize self-care during challenging times.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when you need it.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,"I'm sorry to hear that you're feeling overwhelmed. It's normal to have moments like these, but remember to take some deep breaths and try to focus on one thing at a time.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember that you are capable of handling the challenges ahead.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be just as important as the special ones.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's fantastic to hear! It's always a great feeling to accomplish your tasks.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take breaks and practice self-care during this stressful time.",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have days like that. Tomorrow is a new opportunity for something special to happen.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,I understand that not every day is filled with excitement. It's okay to have regular days too.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take things one step at a time and do your best. You've got this!",Neutral
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be a nice break from the chaos of life.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself during challenging times.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember to take care of yourself and reach out for support if you need it. You've got this!",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding on to that positivity.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep that positive mindset!,Positive
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to have periods where everything seems challenging. Remember to be kind to yourself during these times.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon. I'm glad you were able to relax and enjoy some quiet time for yourself.,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Keep up the good work.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel that way sometimes. Remember to take a deep breath and try to take things one step at a time.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel overwhelmed sometimes.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how overwhelming exams and deadlines can be. It's normal to feel anxious about them, but remember to take deep breaths and break down your tasks into smaller, manageable steps. You've got this!",Neutral
+,Negative,Why does everything feel so hard lately?,I'm sorry to hear that things have been feeling difficult for you lately. It's completely normal to go through periods where everything feels challenging. Take some time to care for yourself and reach out for support if needed.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's important to take a step back and prioritize self-care during times like this.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to remember to take care of yourself and reach out for support when needed.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I'm sorry to hear that you're feeling anxious about your exams and deadlines. Remember to take deep breaths and break down your tasks into manageable chunks.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious. It's completely normal to feel this way when facing exams and deadlines. Remember to take breaks, practice self-care, and reach out for support if you need it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely understandable given the circumstances.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way sometimes. Remember to take a deep breath and try to take things one step at a time.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,"It's okay to have regular days, they are part of life too.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. They can be a nice break from all the chaos.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend an afternoon. I'm glad you were able to relax and enjoy some peaceful time for yourself.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling tough for you lately. It's normal to go through challenging times, and it's okay to feel the way you do.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days too. Sometimes simplicity can be comforting.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling tough for you lately. It's okay to feel this way, and I'm here to support you.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,I hear you and I understand how overwhelming exams and deadlines can be. Remember to take breaks and breathe during this stressful time.,Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I understand how stressful exams and deadlines can be. It's normal to feel anxious, but remember to take breaks and practice self-care during this time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful for the future.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful afternoon!,Positive
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! You should be proud of your accomplishments.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! You should definitely be proud of yourself for completing your tasks.,Positive
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that things have been feeling difficult for you lately. It's okay to feel this way, and I'm here to support you through it.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear you had a great day with your friends!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. Remember to take some time for yourself and prioritize self-care during this tough time. You are stronger than you think.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels hard for you lately. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your upcoming exams and deadlines. It's completely normal to feel this way, but remember that you are capable and have what it takes to handle these challenges.",Neutral
+,Positive,Today was a great day! I had fun with my friends.,I'm glad to hear that you had a great day with your friends!,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a peaceful and enjoyable afternoon.,Positive
+,Positive,I'm hopeful things will improve soon.,It's wonderful to hear that you're feeling hopeful for better days ahead.,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They are just as important for rest and routine.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Remember to stay positive during challenging times.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take small steps to prepare and take care of yourself during this time.",Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like this. Remember to be kind to yourself and take things one step at a time.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to feel this way at times.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's great to hear! It's important to acknowledge your accomplishments and feel proud of yourself.,Positive
+,Negative,I feel anxious about upcoming exams and deadlines.,"I'm sorry to hear that you're feeling anxious about your exams and deadlines. It's completely normal to feel that way, but remember to take deep breaths and take one step at a time.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's okay to feel exhausted and overwhelmed sometimes. Take some time to rest and take care of yourself.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! It's always a great feeling to accomplish your tasks.,Positive
+,Positive,I feel proud of myself for completing my tasks.,That's wonderful to hear! Keep up the great work.,Positive
+,Positive,I had a relaxing afternoon reading and sipping tea.,It sounds like you had a wonderful and peaceful afternoon.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Keep holding onto that positivity.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. It's important to hold on to that positivity during challenging times.,Positive
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful. Hang in there!,Positive
+,Negative,I'm exhausted. I don’t know how much more I can take.,It sounds like you're really going through a tough time. It's okay to feel exhausted and overwhelmed. Remember to take care of yourself and reach out for support if you need it.,Neutral
+,Negative,Why does everything feel so hard lately?,"I'm sorry to hear that everything feels challenging for you right now. It's okay to feel this way, and I'm here to listen if you want to talk more about it.",Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It sounds like you're going through a tough time.,Negative
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and give yourself some grace.,Neutral
+,Positive,I'm hopeful things will improve soon.,I'm glad to hear you're feeling hopeful! Hang in there.,Positive
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's completely normal to go through periods like this. Remember to take deep breaths and try to tackle one thing at a time.,Negative
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take a deep breath and take things one step at a time.,Neutral
+,Positive,I feel proud of myself for completing my tasks.,It's great to hear that you feel proud of yourself for completing your tasks!,Positive
+,Neutral,I’m not sure how I feel today. Just going through the motions.,It's okay to have days like that. Remember to take care of yourself and reach out if you need support.,Neutral
+,Positive,I had a relaxing afternoon reading and sipping tea.,That sounds like a lovely way to spend your afternoon!,Positive
+,Neutral,Nothing special happened today. Just a regular day.,It's okay to have regular days sometimes. They can be comforting in their familiarity.,Neutral
+,Neutral,Nothing special happened today. Just a regular day.,I understand that not every day can be filled with excitement. It's okay to have regular days too.,Neutral
+,Negative,I'm feeling really overwhelmed and can't focus.,I'm sorry to hear that you're feeling overwhelmed. It's okay to feel this way sometimes. Remember to take things one step at a time and prioritize self-care.,Neutral
+,Negative,I'm exhausted. I don’t know how much more I can take.,I'm sorry to hear that you're feeling this way. It's important to take care of yourself and reach out for support when needed.,Neutral
