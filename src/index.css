@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mental Health Journaling Platform Design System
+All colors MUST be HSL for theme consistency.
+*/
+
+@layer base {
+  :root {
+    /* Calming base colors */
+    --background: 248 100% 98%;
+    --foreground: 240 10% 15%;
+
+    /* Soft card colors */
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 15%;
+
+    /* Lavender primary palette */
+    --primary: 252 56% 68%;
+    --primary-light: 252 60% 82%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Mint green secondary */
+    --secondary: 142 52% 85%;
+    --secondary-light: 142 60% 92%;
+    --secondary-foreground: 240 10% 15%;
+
+    /* Light blue accent */
+    --accent: 200 85% 85%;
+    --accent-light: 200 90% 92%;
+    --accent-foreground: 240 10% 15%;
+
+    /* Soft neutrals */
+    --muted: 248 50% 96%;
+    --muted-foreground: 240 5% 55%;
+
+    --destructive: 0 65% 65%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 248 30% 90%;
+    --input: 248 30% 94%;
+    --ring: 252 56% 68%;
+
+    --radius: 0.75rem;
+
+    /* Wellness gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(252 56% 68%), hsl(200 85% 85%));
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(248 50% 98%));
+    --gradient-garden: linear-gradient(135deg, hsl(142 52% 85%), hsl(200 85% 85%));
+    
+    /* Glow effects */
+    --glow-primary: 0 8px 32px hsl(252 56% 68% / 0.3);
+    --glow-gentle: 0 4px 16px hsl(248 50% 90% / 0.5);
+
+    /* Animation curves */
+    --ease-spring: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    --ease-gentle: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-inter;
+  }
+}
+
+@layer components {
+  /* Easter egg bunny animation */
+  .bunny-hop {
+    animation: hop 0.6s ease-in-out;
+  }
+
+  .bunny-sparkle {
+    animation: sparkle 0.8s ease-out forwards;
+  }
+
+  /* Magical sparkle effect */
+  .sparkle {
+    animation: twinkle 1.2s ease-out forwards;
+  }
+
+  /* Gentle hover effects */
+  .hover-lift {
+    transition: all 0.3s var(--ease-gentle);
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--glow-gentle);
+  }
+
+  /* Hero gradient background */
+  .hero-gradient {
+    background: var(--gradient-hero);
+  }
+
+  /* Card gradient backgrounds */
+  .card-gradient {
+    background: var(--gradient-card);
+  }
+
+  .garden-gradient {
+    background: var(--gradient-garden);
+  }
+
+  /* Wellness glow effect */
+  .wellness-glow {
+    box-shadow: var(--glow-primary);
+  }
+}
+
+@layer utilities {
+  /* Custom font family */
+  .font-inter {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  .font-times {
+    font-family: 'Times New Roman', serif;
+  }
+
+  /* Custom animations */
+  @keyframes hop {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-12px) scale(1.1); }
+  }
+
+  @keyframes sparkle {
+    0% { 
+      opacity: 1; 
+      transform: scale(1) rotate(0deg);
+    }
+    100% { 
+      opacity: 0; 
+      transform: scale(1.5) rotate(180deg);
+    }
+  }
+
+  @keyframes twinkle {
+    0%, 100% { opacity: 0; transform: scale(0); }
+    50% { opacity: 1; transform: scale(1); }
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .animate-fade-up {
+    animation: fade-up 0.6s ease-out;
+  }
+}
