@@ -1,3 +1,4 @@
+import supabase from "@/config/supabaseClient";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -5,6 +6,7 @@ import { Heart, Sparkles, BookOpen, MessageCircle, Flower, Activity } from "luci
 import heroImage from "@/assets/hero-wellness.jpg";
 
 const Home = () => {
+
   const features = [
     {
       icon: BookOpen,

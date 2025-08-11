@@ -1,5 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { Heart, BookOpen, MessageCircle, Flower, Activity } from "lucide-react";
+import logo from "@/public/favicon.ico";
 
 const Navigation = () => {
   const location = useLocation();
@@ -17,9 +18,9 @@ const Navigation = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3 hover-lift">
-            <Heart className="w-8 h-8 text-primary" />
-            <span className="font-times text-2xl font-bold text-foreground italic">
-              Thrive
+            <Heart className="w-6 h-6 text-primary" />
+            <span className="font-times text-2xl font-bold text-foreground">
+              Student AI Journal
             </span>
           </Link>
           

@@ -1,73 +1,137 @@
-# Welcome to your Lovable project
+# Garden of Thought 🌱
 
-## Project info
+A nurturing digital space for journaling, wellness tracking, and personal growth, powered by AI and beautiful UI. Garden of Thought helps you reflect, track your mental health, and watch your progress bloom into a magical garden.
 
-**URL**: https://lovable.dev/projects/f3905dbf-407a-423d-b5a6-e64e240693b3
+---
 
-## How can I edit this code?
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Features
+- **Personal Journal:** Write and save daily reflections in a safe, private space.
+- **AI Companion:** Get supportive, context-aware responses for journaling, stress, and study help.
+- **Mood & Wellness Tracker:** Visualize your emotional patterns and progress with charts and stats.
+- **Enchanted Garden:** Unlock and grow magical plants as you journal and reflect.
+- **Beautiful UI:** Modern, accessible design with shadcn-ui and Tailwind CSS.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f3905dbf-407a-423d-b5a6-e64e240693b3) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## Tech Stack
+- **Frontend:** React, TypeScript, Vite, shadcn-ui, Tailwind CSS, Radix UI, Recharts
+- **Backend:** FastAPI (Python), OpenAI API, Pydantic
+- **State & Data:** LocalStorage (for journal/garden), Supabase (optional, for future cloud sync)
+- **Other:** dotenv, modern ESLint config, modular component structure
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Project Structure
+```
+garden-of-thought/
+├── backend/           # FastAPI backend (AI endpoints)
+│   ├── main.py
+│   └── requirements.txt
+├── src/
+│   ├── components/    # UI and shared components
+│   ├── pages/         # Main app pages (Home, Journal, Chatbot, Wellness, Garden)
+│   ├── services/      # API and AI service logic
+│   ├── config/        # Supabase and other config
+│   └── assets/        # Images and static assets
+├── public/            # Static files
+├── package.json       # Frontend dependencies
+├── README.md
+└── ...
+```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Prerequisites
+- Node.js (v18+ recommended)
+- Python 3.9+
+- OpenAI API key (for AI features)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/garden-of-thought.git
+cd garden-of-thought
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 2. Install Frontend Dependencies
+```bash
+npm install
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 3. Install Backend Dependencies
+```bash
+cd backend
+pip install -r requirements.txt
+```
+
+### 4. Set up Environment Variables
+Create a `.env` file in the `backend/` directory:
+```
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+### 5. Run the Backend (API)
+```bash
+cd backend
+uvicorn main:app --reload
+```
+
+### 6. Run the Frontend (Dev Server)
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The frontend will be available at [http://localhost:5173](http://localhost:5173) (or as configured by Vite).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## Usage
+- **Journal:** Write, save, and view your entries. Entries are stored locally for privacy.
+- **Chatbot:** Get AI-powered support for journaling, stress, study, and more.
+- **Wellness:** Track your mood and see visual stats and trends.
+- **Garden:** Unlock and grow magical plants as you journal and progress.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## API Endpoints
+- `POST /api/chat` — Main AI chat endpoint. Accepts a message and returns an AI-generated response.
+- `GET /api/health` — Health check for the backend API.
 
-This project is built with:
+See `backend/main.py` for more details.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## Contributing
+1. Fork the repo and create your branch (`git checkout -b feature/your-feature`)
+2. Commit your changes (`git commit -am 'Add new feature'`)
+3. Push to the branch (`git push origin feature/your-feature`)
+4. Open a Pull Request
 
-Simply open [Lovable](https://lovable.dev/projects/f3905dbf-407a-423d-b5a6-e64e240693b3) and click on Share -> Publish.
+All contributions, suggestions, and feedback are welcome!
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## Credits
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [OpenAI](https://openai.com/)
+- [Supabase](https://supabase.com/)
+- [Recharts](https://recharts.org/)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> _Garden of Thought is a labor of love for your mental wellness journey. 🌸_    
